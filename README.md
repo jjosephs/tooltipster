@@ -7,7 +7,7 @@ Compatible with Mozilla Firefox, Google Chrome, IE8+ and others. Requires jQuery
 A reminder of options/methods lies below. For detailed documentation, visit http://iamceege.github.io/tooltipster/
 
 Options
--------------------------
+-------------------------fsdfsdfsdf
 
 animation  
 arrow  
